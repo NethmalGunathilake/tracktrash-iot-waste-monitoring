@@ -28,7 +28,7 @@ Diploma in Computing and Software Engineering at ICBT Campus
 6. Run on emulator or Android device
 
 ## Note
-This repository contains the core source code (app folder) 
+This repository contains the core source code (main folder) 
 of the Android application. Open in Android Studio and 
 connect to your IoT hardware to run the full system.
 
